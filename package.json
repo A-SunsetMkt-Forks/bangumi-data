@@ -33,7 +33,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
     "fs-extra": "^11.2.0",
-    "joi": "^13.7.0",
+    "joi": "^17.13.3",
     "klaw": "^4.0.1",
     "lodash": "^4.17.21",
     "semantic-release": "^23.0.6"
